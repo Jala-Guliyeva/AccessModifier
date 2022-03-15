@@ -5,18 +5,21 @@ using System.Text;
 namespace Acsess_modifier.Models
 {
     class User
-        
-    {
+    { 
+        public string userName;
+        public int age;
+    //protected int Speed;
+         private int password;
+    
         public User()
         {
             
         }
-        public User(string userName, int age, int password)
+        public User(string userName, int Age, int password):base(userName,password)
 
         {
             this.Age = age;
-            this.UserName = userName;
-            this.Password = password;
+         
 
         }
 
@@ -56,11 +59,11 @@ namespace Acsess_modifier.Models
         }
 
 
-        public int Password {
+        private int Password {
             
             get
             {
-                if (Password == 0 )
+                if (password == 0 )
                 {
                     Console.WriteLine("Bos ola bilmez");
                     return -1;
@@ -71,7 +74,7 @@ namespace Acsess_modifier.Models
                     
                 }
                
-                return Password;
+                return password;
             }
             set
             {
