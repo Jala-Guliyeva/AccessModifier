@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.exe
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.deps.json
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.dll
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\AccsessModifier.pdb
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.dll
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.pdb
+C:\Users\TOSHIBA\Desktop\AP103_16-03-2022_AccessModifiersPart2-Namespace\AccessModifiersPart2\obj\Debug\netcoreapp3.1\AccsessModifier.genruntimeconfig.cache
